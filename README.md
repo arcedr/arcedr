@@ -1,9 +1,8 @@
 ## Welcome to my Github page! 👋
 
 <!--
-**arcedr/arcedr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arcedr/arcedr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
 - 🎓 I am a mathematician and have a PhD in Biostatistics
 - 🔭 I am currently an Associate Research Scientist at the Department of Biostatistics in Columbia University Mailman School of Public Health
